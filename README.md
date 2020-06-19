@@ -22,4 +22,5 @@
        #vi docker-compose.yml : Copy the code given in docker-compose.yml file & check which port is exposes.
        #docker-compose up : now up the yml file using this command  
        # Now go to browser and type http://<ip_address>:5000 
+       #docker images ls : this command shows all the images of the application
     
